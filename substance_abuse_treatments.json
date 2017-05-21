@@ -1,9 +1,9 @@
 [{
-  "name": "Impatient Rehab",
+  "name": "In-patient Rehab",
   "id": "helloId",
   "description": "desc about treatment"
 }, {
-  "name": "Outpatient Rehab",
+  "name": "Out-patient Rehab",
   "id": "helloId",
   "description": "desc about treatment"
 }, {

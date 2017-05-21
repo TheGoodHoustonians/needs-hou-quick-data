@@ -934,11 +934,95 @@
   "hotline_phone": "",
   "languages": ["English", "Spanish"],
   "services": [],
-  "substance_abuse_treatments": [],
+  "substance_abuse_treatments": [{
+    "name": "In-patient Rehab",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }, {
+    "name": "Out-patient Rehab",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }, {
+    "name": "Group Therapy",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }, {
+    "name": "Support Groups",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }],
   "support_groups": [],
   "outreach_programs": [],
   "shelter_capabilities": [],
-  "medical_amenities": [],
+  "medical_amenities": [{
+    "name": "Full Range Medical Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Primary Care",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Vision",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Dental",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "HIV Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "STI Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "HIV Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "STI Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Pregnancy Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Pediatric Care",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Women's Health",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Acute Sexual Assault / Sexual Abuse Evaluations",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Substance Abuse Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Counseling",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Mental Health/Psychiatric Services",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Surgical Treatments",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Convalescence",
+    "id": "balhId",
+    "description": "random description"
+  }],
   "transportation_assistances": [],
   "education_services": [],
   "education_supports": [],
@@ -947,7 +1031,11 @@
   "client_referral_sources": [],
   "client_requirements": [],
   "target_demographics": [],
-  "payment_methods": []
+  "payment_methods": [{
+    "name": "Military Health Insurance",
+    "id": "fkaeid",
+    "description": "description helo"
+  }]
 }, {
   "id": "fake id",
   "contact_name": "fake contact name",
@@ -1140,7 +1228,27 @@
   "shelter_capabilities": [],
   "medical_amenities": [],
   "transportation_assistances": [],
-  "education_services": [],
+  "education_services": [{
+    "name": "ESL Classes",
+    "id": "lksjdflkj",
+    "description": "hello learn stuffs!"
+  }, {
+    "name": "GED Classes",
+    "id": "lksjdflkj",
+    "description": "hello learn stuffs!"
+  }, {
+    "name": "ABE Classes",
+    "id": "lksjdflkj",
+    "description": "hello learn stuffs!"
+  }, {
+    "name": "Literacy Classes ",
+    "id": "lksjdflkj",
+    "description": "hello learn stuffs!"
+  }, {
+    "name": "Job Readiness",
+    "id": "lksjdflkj",
+    "description": "hello learn stuffs!"
+  }],
   "education_supports": [],
   "prevention_services": [],
   "legal_services": [],
@@ -1184,11 +1292,87 @@
   "hotline_phone": "",
   "languages": ["English", "Spanish"],
   "services": [],
-  "substance_abuse_treatments": [],
+  "substance_abuse_treatments": [{
+    "name": "In-patient Rehab",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }, {
+    "name": "Out-patient Rehab",
+    "id": "helloId",
+    "description": "desc about treatment"
+  }],
   "support_groups": [],
   "outreach_programs": [],
   "shelter_capabilities": [],
-  "medical_amenities": [],
+  "medical_amenities": [{
+    "name": "Full Range Medical Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Primary Care",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Vision",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Dental",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "HIV Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "STI Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "HIV Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "STI Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Pregnancy Testing",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Pediatric Care",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Women's Health",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Acute Sexual Assault / Sexual Abuse Evaluations",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Substance Abuse Treatment",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Counseling",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Mental Health/Psychiatric Services",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Surgical Treatments",
+    "id": "balhId",
+    "description": "random description"
+  }, {
+    "name": "Convalescence",
+    "id": "balhId",
+    "description": "random description"
+  }],
   "transportation_assistances": [],
   "education_services": [],
   "education_supports": [],
@@ -1197,5 +1381,17 @@
   "client_referral_sources": [],
   "client_requirements": [],
   "target_demographics": [],
-  "payment_methods": []
+  "payment_methods": [{
+  "name": "Medicare",
+    "id": "fkaeid",
+    "description": "description helo"
+  }, {
+    "name": "Medicaid",
+    "id": "fkaeid",
+    "description": "description helo"
+  }, {
+    "name": "CHIP",
+    "id": "fkaeid",
+    "description": "description helo"
+  }]
 }]
