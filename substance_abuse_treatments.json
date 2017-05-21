@@ -1,0 +1,17 @@
+[{
+  "name": "Impatient Rehab",
+  "id": "helloId",
+  "description": "desc about treatment"
+}, {
+  "name": "Outpatient Rehab",
+  "id": "helloId",
+  "description": "desc about treatment"
+}, {
+  "name": "Group Therapy",
+  "id": "helloId",
+  "description": "desc about treatment"
+}, {
+  "name": "Support Groups",
+  "id": "helloId",
+  "description": "desc about treatment"
+}]
