@@ -1381,50 +1381,73 @@
   "client_referral_sources": [],
   "client_requirements": [],
   "target_demographics": [{
-    "name": "Male",
-    "type": "Gender",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Men (18 and older)",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "Female",
-    "type": "Gender",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Women (18 and older)",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "Other",
-    "type": "Gender",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Boys (17 and younger)",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "< 5",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Girls (17 and younger)",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "6 - 13",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Singles",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "14 - 17",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Families",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "18 - 39",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "Pregnant Women",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "40 - 55",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "LGBTQI",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }, {
-    "name": "65 =>",
-    "type": "Age",
-    "id": "id stuffs",
-    "description": "this is a description"
+    "name": "U.S. Citizen",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Legal Permanent Resident",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Foreign Nationals",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Asylum / Refugees",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Undocumented Individuals",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Undocumented Refugee Minors",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Unaccompanied Minors",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Ex-Offenders / Felons",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
+  }, {
+    "name": "Sex Offenders",
+    "id": "fake ids",
+    "description": "blhablhalhblah"
   }],
   "payment_methods": [{
   "name": "Medicare",
