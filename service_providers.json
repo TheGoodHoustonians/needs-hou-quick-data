@@ -1380,7 +1380,52 @@
   "legal_services": [],
   "client_referral_sources": [],
   "client_requirements": [],
-  "target_demographics": [],
+  "target_demographics": [{
+    "name": "Male",
+    "type": "Gender",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "Female",
+    "type": "Gender",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "Other",
+    "type": "Gender",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "< 5",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "6 - 13",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "14 - 17",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "18 - 39",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "40 - 55",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }, {
+    "name": "65 =>",
+    "type": "Age",
+    "id": "id stuffs",
+    "description": "this is a description"
+  }],
   "payment_methods": [{
   "name": "Medicare",
     "id": "fkaeid",
